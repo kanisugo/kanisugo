@@ -40,8 +40,8 @@ https://github.com/kanisugo/Multi-Class-Facies-Prediction-using-DDFN-Neural-Net
 
 ## 📫 Contact & Links
 
-- [LinkedIn](https://www.linkedin.com/in/kanishk-sugotra/)
-- [LeetCode](https://leetcode.com/kanishksugotra/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/kanishk-sugotra/)
+- **LeetCode**: [LeetCode](https://leetcode.com/kanishksugotra/)
 - **Email:** kani.sugotra619@gmail.com
 
 ---
