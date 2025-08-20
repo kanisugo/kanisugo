@@ -21,7 +21,7 @@ Python, SQL
 NumPy, Pandas, scikit-learn, TensorFlow, PyTorch
 
 **Tools & Platforms:**  
-Git, GitHub, Petrel, QGIS, ArcGIS, ENVI
+Tableau, PowerBI, Git, Petrel, QGIS, ArcGIS, ENVI
 
 **Soft Skills:**  
 Detail-Oriented, Perseverance, Problem Solver, Team Player, Communication, Adaptability
