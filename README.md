@@ -33,6 +33,7 @@ Detail-Oriented, Perseverance, Problem Solver, Team Player, Communication, Adapt
 *(See below for my most relevant work!)*
 
 https://github.com/kanisugo/Multi-Class-Facies-Prediction-using-Variotional-Autoencoders
+
 https://github.com/kanisugo/Multi-Class-Facies-Prediction-using-DDFN-Neural-Net
 
 ---
