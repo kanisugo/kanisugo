@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanishk Sugotra
 
-<!--
-**kanisugo/kanisugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine Learning**, and **Data Analysis**. I excel at using Python and SQL to drive insights and build intelligent solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Roles I'm Seeking
+
+- **Data Scientist**
+- **Machine Learning Engineer**
+- **Data Analyst**
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming Languages:**  
+Python, SQL
+
+**Libraries & Frameworks:**  
+NumPy, Pandas, scikit-learn, TensorFlow, PyTorch
+
+**Tools & Platforms:**  
+Git, GitHub, Petrel, QGIS, ArcGIS, ENVI
+
+**Soft Skills:**  
+Detail-Oriented, Perseverance, Problem Solver, Team Player, Communication, Adaptability
+
+---
+
+## 📌 Pinned Repositories
+
+*(See below for my most relevant work!)*
+
+---
+
+## 📫 Contact & Links
+
+- [LinkedIn](https://www.linkedin.com/in/kanishk-sugotra/)
+- [LeetCode](https://leetcode.com/kanishksugotra/)
+- **Email:** kani.sugotra619@gmail.com
+
+---
+
+## ☎️ Let's Connect!
+
+I'm always open to new opportunities, collaborations, and discussions.  
+**Feel free to reach out or invite me for a call—let's build something great together!**
+
+---
